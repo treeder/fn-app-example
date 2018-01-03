@@ -1,4 +1,4 @@
-name: app
-version: 0.0.71
+name: root
+version: 0.0.77
 runtime: go
 entrypoint: ./func
