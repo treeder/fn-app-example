@@ -10,4 +10,4 @@ fn deploy --all
 
 Then surf to http://localhost:8080/r/helloapp
 
-See [apps documentation](/docs/developers/apps.md) for more details on applications.
+See [apps documentation](https://github.com/fnproject/fn/blob/master/docs/developers/apps.md) for more details on applications.
